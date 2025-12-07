@@ -1,8 +1,8 @@
 ---
 marp: true
-theme: custom-tech
+theme: default
 paginate: true
-header: "Product Documentation - Technical Writer"
+header: "Product Documentation"
 footer: "© 2025 Software Company"
 style: |
   section {
@@ -25,8 +25,6 @@ style: |
   }
 ---
 
-<!-- _class: lead -->
-
 # Product Documentation Presentation  
 ### Technical Writer  
 **Email:** 23f2004056@ds.study.iitm.ac.in  
@@ -46,45 +44,44 @@ style: |
 
 ## 🎨 Custom Styling Example
 
-This text is using the **custom Marp theme** and styling.
+This slide demonstrates **custom Marp styling**.
 
-- Background: Dark Blue
-- Headings: Blue & Yellow
-- Font: Arial
-- Footer & Header enabled
+- Custom background color
+- Custom font
+- Styled headings
+- Highlighted text
 
-<span class="highlight">This line uses custom styling.</span>
+<span class="highlight">This text uses a custom CSS class.</span>
 
 ---
 
-<!-- _backgroundImage: "https://images.unsplash.com/photo-1518770660439-4636190af475" -->
+<!-- _backgroundImage: "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1600&q=80" -->
 <!-- _backgroundSize: cover -->
 
-## 🖼 Slide With Background Image
+## 🖼 Background Image Slide (REQUIRED)
 
-This slide has a **full background image** using Marp directives.
+This slide contains a **full background image** using Marp directives.
 
 ---
 
 ## 📐 Mathematical Equation (Algorithm Complexity)
 
-Time Complexity of Merge Sort:
+Time complexity of Merge Sort:
 
 \[
 T(n) = O(n \log n)
 \]
 
-This is commonly used in algorithm analysis.
+This is widely used in algorithm analysis.
 
 ---
 
-## ✅ Summary
+## ✅ Summary of Requirements
 
 - ✅ Email included  
-- ✅ Custom theme applied  
+- ✅ Custom styling applied  
 - ✅ Page numbers enabled  
-- ✅ Background image used  
-- ✅ Custom styling added  
+- ✅ Background image added  
 - ✅ Mathematical equation added  
 
 ---
